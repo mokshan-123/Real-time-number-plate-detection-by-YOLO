@@ -185,11 +185,10 @@ Only light augmentation was applied to simulate real-world variation:
 
 ---
 
-
 ## Sample Annotated Predictions
 
 <!-- Replace filename with your actual file from Annotated_Batch_images/ -->
-![Sample Predictions](Annotated_Batch_images)
+![Sample Predictions](Annotated_Batch_images/val_batch2_pred.jpg)
 
 ---
 
