@@ -1,0 +1,7 @@
+names:
+- license_plate
+nc: 1
+path: /kaggle/input/datasets/fareselmenshawii/large-license-plate-dataset
+test: images/test
+train: images/train
+val: images/val
