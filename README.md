@@ -204,10 +204,10 @@ Only light augmentation was applied to simulate real-world variation:
 
 ---
 
-## Demo Video
+## Demo Video ( can Download and watch )
 
 <!-- Upload demo video or link to YouTube/Google Drive -->
-> [Click here to watch the real-time detection demo](YOUR_VIDEO_LINK_HERE)
+> [Click here to watch the real-time detection demo](Proof.mp4)
 
 ---
 
